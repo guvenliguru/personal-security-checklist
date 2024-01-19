@@ -7,7 +7,7 @@
 
 ## KİŞİSEL GÜVENLİK KONTROL LİSTESİ
 
-> Bu gizlilik ve güvenlik ipuçları kontrol listesi, [Tam Kişisel Güvenlik Kontrol Listesi](https://github.com/Lissy93/personal-security-checklist/blob/master/README.md) adlı belgenin özetidir. Dijital yaşamınızı korumak için atmanız gereken en temel adımları ortaya koyar.
+> Bu gizlilik ve güvenlik ipuçları kontrol listesi, [Tam Kişisel Güvenlik Kontrol Listesi](https://github.com/guvenliguru/personal-security-checklist/blob/master/README.md) adlı belgenin özetidir. Dijital yaşamınızı korumak için atmanız gereken en temel adımları ortaya koyar.
 
 ### Kimlik Doğrulama
 - Her bir hesabınız için uzun, güçlü ve benzersiz bir şifre kullanın ([HowSecureIsMyPassword.net](https://howsecureismypassword.net) adresini ziyaret edin)
